@@ -1,0 +1,47 @@
+<svelte:head>
+	<title>How to finance your studies to ESSEC Business School</title>
+</svelte:head>
+<picture>
+    <source srcset="image5.jpg" type="image/webp" />
+    <img src="image5.jpg" alt="Welcome" width="1050" height="650"/>
+</picture>
+<div class="wp-container-11 wp-block-columns alignwide">
+    <div class="wp-block-column">
+        <p>Well if you are reading this, either you have already secured admission at ESSEC or you are planning to. </p>
+        <p>Either way, you are on the right track.</p>
+        <p>So as the title suggests let’s talk about how you can finance your studies at ESSEC. </p>
+        <p>The whole article is divided into 3 sections – Scholarships, Student Loans, and lastly the Apprenticeship Program.</p> 
+        <p>So without wasting any time let’s jump to the first section</p> 
+        <h2 id="the-scholarships">The Scholarships</h2>
+<p>First of all, when you apply to ESSEC, you are automatically considered for 2 scholarships (Yes! You do not need to apply for these separately) –</p>
+ <ol><li>Excellence Scholarship</li><li>Diversity Scholarship</li></ol>
+ <p>Now all international students are eligible for this scholarship and it can cover up to 40% of your tuition fees. The one thing you have to keep in mind is that you don’t have to prepare a separate application for this, you will automatically be considered based on your profile – your GMAT/GRE score, your essays, your motivation to pursue the degree – in short, your overall application.</p>
+ <p>And similarly, the diversity scholarship is awarded based on how diverse your profile is.</p>
+ <p>After these 2 scholarships from ESSEC, the next one which is actually the most popular one is the <strong>Eiffel scholarship</strong>.</p>
+ <p>Now the reason why this scholarship is the most popular is because of its benefits. </p>
+ <ol><li>The first one is you get a monthly allowance of 1,181 Euros, you get one air ticket back to Paris from your country and your medical insurance is also covered.</li></ol>
+  <p>The catch here is that you cannot apply for this scholarship on your own. <strong>Your School, here, ESSEC will apply on your behalf and you can only get this opportunity if you have applied and were accepted in the first round. You cannot apply for it in the later rounds. </strong></p>
+ <p>Obviously, you fill up your application and mention your professional projects along with all the necessary documents that are required, and then after that, the school takes care of the rest. </p>
+ <p>So the requirements of this scholarship are that you </p>
+  <ul><li>Need to be a non-french candidate no older than 30</li><li>Should not have previously been granted a scholarship from the French government; </li><li>And also if you have previously applied and were unsuccessful you will not be eligible. </li></ul>
+ <p>Now there are a bunch of other scholarships depending on the country you are coming so don’t forget to check that.</p>
+ <p><strong>Now let’s talk about the Charpak Masters Scholarship(only for students coming from India)</strong></p>
+ <p>As my viewership is almost 95% Indians, I felt it would be beneficial for you guys if I mentioned this one. So the Charpak Scholarship is given out to a lot of students from all the streams and fields of study who are coming to study in France. The benefits of this scholarship include:</p>
+ <ul><li>Monthly living allowances of around 700 Euros</li><li>A tuition fee waiver of up to 5000 Euros</li><li>And other benefits such as student visa fees etc. </li></ul>
+ <p>The application process is fairly simple and you can check everything on the Campus France website.</p>
+ <p></p>
+ <h2 id="the-student-loans">The student loans</h2>
+<p>So there are 3 options when it comes to bank loans</p>
+ <ol><li>First, you can take a loan from a bank in France for which the very first requirement is you would need a guarantor living in France who must earn enough to cover the monthly loan payment and also be either a French Citizen or a close relative. Now since for International students the possibility of this happening is less I won’t be talking about this option in detail. If, however, you can fulfil such requirements then by all means, try this option as the rate at which you get loans is very less.<br></li><li>The second option is taking a loan from your home country, the rules of which again will change depending on the country you are coming from hence its best if I don’t try to address it.<br></li><li>The third and by far the most common option taken by a lot of international students is <strong>Prodigy Finance</strong>. <br>So the benefits of Prodigy Finance because of which a lot of students consider this option is that contrary to your traditional bank loan, prodigy doesn’t require any collateral or co-signer and the loan is granted based on your future potential. Other things include, no early repayment fees and a variable interest rate depending on your overall profile. <br><br>Now, I have a few questions that people have generally asked me regarding the prodigy loan so lets tackle them now</li></ol>
+ <ul><li><strong>When should we be applying for a loan?</strong> <br>Well its advisable to apply as soon as you can. According to the portal the application for 2023 is going to start from January 2022 end so yeah apply by Feb-March and you should be fine.</li><li><strong>What is the interest rate Prodigy charges?</strong> <br>So the interest rate actually depends on 2 things A fixed rate and a base rate. The fixed rate is the one which basically depends on your application and can be different for every student and the base rate is an international floating rate that will change throughout the life of your education loan. The one prodigy is using right now is the 3-month LIBOR.</li><li><strong>Does Prodigy sanction loans for freshers? What are the requirements?</strong> <br>Yes, they do sanction loans for freshers. Basically when you make an account you just fill in your basic information. If you have worked somewhere after your bachelor you enter that information if not you enter your college information and a whole bunch of other information and you get a interest rate based on your application.</li><li><strong>What are the prerequisites for prodigy to finance a loan? Do we need to maintain some minimum balance in my bank account before I apply for prodigy?</strong> <br>So the only thing you need to take care of is when you mention your school name, they will basically calculate how much money you will approximately require for the 1st year and then tell you how much will they be able to sanction you. So the only thing you need to show is the difference of the two.</li><li><strong>How much of the total loan amount do they generally provide?</strong> <br>So according to your school tuition fees and your estimated living expenses Prodigy Finance will quote you a particular value. In any case, its always higher than your tuition fees because its intended to cover that plus your living expenses.</li><li><strong>What if they delay in sanctioning the fee to school? Would I face any problem?</strong> <br>Now you don’t have to worry about this scenario because if Prodigy Finance has a tie up with your school then they will disperse the amount to the school on their own. So if there is a delay, you don’t have to deal with it.</li><li><strong>Do we get the entire loan amount in our account?</strong> <br>So like I mentioned Prodigy Finance will disperse your loan amount to your school and your school after subtracting its tuition from it will send you the remaining amount in your bank at one go which is basically the living expenses part of you loan</li><li><strong>Is there a limit on the amount we can pay altogether when it comes to early repayment?</strong> <br>No there is no limit on how much you can pay as the early repayment amount. Lets say you get an apprenticeship and you get back your tuition fees from your first year. Yes you can use the entire amount you get and pay it all back towards your loan</li></ul>
+  <p></p>
+ <h2 id="the-apprenticeship-program">The Apprenticeship Program</h2>
+ <p>Now ESSEC’s curriculum has something called the apprenticeship program. </p>
+ <p>Let me explain what it is – It’s a 2-year work-study contract between 3 parties – the school, the company and the student.</p>
+ <p>When you get an apprenticeship at ESSEC, your entire tuition fee is paid for by the company(with government aid) where you’re doing your apprenticeship and on top of that, you also get a monthly stipend for the entire duration of the contract. </p>
+<p>Therefore, your education in France boils to something similar to a 100% scholarship on your tuition fees. And with the monthly stipend you get, you can easily fund your living expenses.</p>
+ <p>Now to be eligible for an apprenticeship, the 2 main requirements are:</p>
+ <ol><li>You have to be less than 30 years old at the start of the contract</li><li>You must have lived in France for a year before starting the contract (This requirement is no longer valid as ESSEC is allowing international students to start an apprenticeship as early as the 2nd trimester of the Master 1 year) *Still check ESSEC’s website for the latest information<br></li></ol>
+  <p>Disclaimer: Although the information present here is up-to-date according to my research, it can very well be old when you read it. So please cross-check everything. Use this article only as a helping hand.</p>
+        </div>
+    </div>
